@@ -13,7 +13,7 @@ const config: Config = {
         muted: "#929BA5",
       },
       fontFamily: {
-        sans: ["Arial", "Helvetica Neue", "sans-serif"],
+        sans: ["Inter", "Avenir Next", "Segoe UI", "ui-sans-serif", "system-ui", "sans-serif"],
         mono: ["ui-monospace", "SFMono-Regular", "Menlo", "monospace"],
       },
     },
